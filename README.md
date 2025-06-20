@@ -46,13 +46,6 @@ Through **Python (Jupyter Notebook)** and **Tableau**, the project performs data
 
 ---
 
-## 🖥️ Tableau Dashboard Preview
-
-> *(Insert a screenshot or link below if available)*  
-> `![Tableau Dashboard Preview](images/tableau-dashboard.png)`  
-> 🌐 [View Dashboard on Tableau Public](https://public.tableau.com/app/profile/yourname/viz/netflix-dashboard)
-
----
 
 ## ▶️ How to Run the Project
 
